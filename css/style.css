@@ -39,7 +39,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: cursive;
+  font-family: "Didot", serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -151,7 +151,7 @@ h6 {
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-family: cursive;
+  font-family: "Didot", serif;
   font-weight: 700;
   letter-spacing: 3px;
 }
@@ -369,7 +369,7 @@ h6 {
   text-decoration: none;
   display: inline-block;
   color: #fff;
-  font-family: cursive;
+  font-family: "Didot", serif;
   font-weight: 700;
   font-size: 13px;
   text-transform: uppercase;
@@ -471,7 +471,7 @@ h6 {
   display: block;
   outline: none;
   font-weight: 700;
-  font-family: cursive;
+  font-family: "Didot", serif;
 }
 
 #mobile-nav ul li a:hover {
@@ -789,7 +789,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #call-to-action .cta-btn {
-  font-family: cursive;
+  font-family: "Didot", serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -852,7 +852,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 22px;
   text-align: center;
   list-style: none;
-  font-family: cursive;
+  font-family: "Didot", serif;
 }
 
 
@@ -1337,7 +1337,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 10px;
   line-height: 1;
-  font-family: cursive;
+  font-family: "Didot", serif;
   font-weight: 700;
   letter-spacing: 3px;
   border-left: 4px solid #0eb1e2;
@@ -1347,7 +1347,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: cursive;
+  font-family: "Didot", serif;
   color: #eee;
 }
 
