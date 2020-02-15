@@ -853,52 +853,21 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: .9s;
 }
 
-/* Facts Section
+/* What You Will Learn Section
 --------------------------------*/
 
-#facts {
-  background: url("../img/facts-bg.jpg") center top no-repeat fixed;
-  background-size: cover;
-  padding: 60px 0 0 0;
-  position: relative;
+.WhatYouWillLearn {
+  justify-content: center;
+  padding-right: 30px;
 }
 
-#facts::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  background: rgba(255, 255, 255, 0.88);
-  z-index: 9;
-}
-
-#facts .container {
-  position: relative;
-  z-index: 10;
-}
-
-#facts .counters span {
-  font-family: "Comic Sans, Comic Sans MS", cursive;
-  font-weight: bold;
-  font-size: 48px;
-  display: block;
-  color: #0eb1e2;
-}
-
-#facts .counters p {
-  padding: 0;
-  margin: 0 0 20px 0;
-  font-family: "Comic Sans, Comic Sans MS", cursive;
-  font-size: 14px;
-  color: #111;
-}
-
-#facts .facts-img {
+.WhatYouWillLearnList {
+  font-size: 22px;
   text-align: center;
-  padding-top: 30px;
+  list-style: none;
+  font-family: "Comic Sans, Comic Sans MS", cursive;
 }
+
 
 /* Portfolio Section
 --------------------------------*/
@@ -1165,6 +1134,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* Team Section
 --------------------------------*/
+
+
+#CarolsHeadshotPhoto{
+  justify-content: center;
+}
+
 
 #team {
   background: #fff;
